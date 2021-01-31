@@ -16,7 +16,6 @@ embedded-time = "0.12.0"
 nb = "1.0"
 rp2040-pac = { git = "https://github.com/rp-rs/rp2040-pac", branch="main" }
 paste = "1.0"
-vcell = "0.1"
 pio = { git = "https://github.com/rp-rs/pio-rs.git", branch = "main" }
 
 [dev-dependencies]
